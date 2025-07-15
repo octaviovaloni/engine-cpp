@@ -1,0 +1,31 @@
+{
+  "map_name": "Test Map 1",
+  "background_color": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "a": 0
+  },
+  "instances": {
+    "principal_floor": {
+      "instance_type": "floor",
+      "transform": {
+        "x": 0,
+        "y": 1000,
+        "width": 10000,
+        "height": 100
+      },
+      "origin": {
+        "x": 5000,
+        "y": 100
+      },
+      "color": {
+        "r": 127,
+        "g": 106,
+        "b": 79,
+        "a": 255
+      },
+      "rotation": 0.0
+    }
+  }
+}
