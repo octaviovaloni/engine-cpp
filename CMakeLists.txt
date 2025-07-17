@@ -35,5 +35,6 @@ add_executable(${PROJECT_NAME} main.cpp
         engine/thread_safe_vector.hpp
         engine/entity/rigid_body.cpp
         engine/entity/rigid_body.hpp
+        engine/event_bus.hpp
 )
 target_link_libraries(${PROJECT_NAME} raylib)

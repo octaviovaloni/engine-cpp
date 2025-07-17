@@ -2,6 +2,7 @@
 #define INSTANCE_HPP
 #include <functional>
 #include <vector>
+#include "event_bus.hpp"
 
 namespace engine::types
 {
